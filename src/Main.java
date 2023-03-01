@@ -6,7 +6,7 @@ public class Main {
 
        // int index = service.calculate(weight, height);
        // System.out.println( "Индекс массы тела= "+ (index));
-        System.out.println(service.calculate(98, 1.87));
+        System.out.println(service.calculate(88, 1.9));
     }
 
 
